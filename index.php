@@ -10,7 +10,11 @@ class Test {
    return $this->name;
  }
 
+
  public function getNameTest(){
+ }
+ public function getName(){
+
    return $this->name;
  }
 
