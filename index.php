@@ -9,5 +9,10 @@ class Test {
  public function getName(){
    return $this->name;
  }
+
+ public function getNameTest(){
+   return $this->name;
+ }
+
 }
 
