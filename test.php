@@ -8,5 +8,9 @@ class Test {
  public function getName(){
    return $this->name;
  }
+
+ public function getAge(){
+	 return '11';
+ } 	
 }
 
